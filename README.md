@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm a recent of Le Wagon. I'm passionate about learning new things, at the moment coding and web development. My long-term goal is to create a successful technology company, and I'm currently working on developing the skills and knowledge I need to make it happen. 
+
+With my business background and my coding skills, I'm confident that I can bring something special to the table and make a real impact.
 
 <!--
 **laurenaute/laurenaute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
